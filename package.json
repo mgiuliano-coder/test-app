@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Test node application",
   "main": "main.js",
+  "scripts":{
+    "test": "echo Testing"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mgiuliano-coder/test-app.git"
