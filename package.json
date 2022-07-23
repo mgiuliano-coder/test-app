@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Test node application",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgiuliano-coder/test-app.git"
+  },
+  "author": "Michael Giuliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgiuliano-coder/test-app/issues"
+  },
+  "homepage": "https://github.com/mgiuliano-coder/test-app#readme"
+}
